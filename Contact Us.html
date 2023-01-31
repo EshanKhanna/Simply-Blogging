@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+    
+    <div class="form-wrapper">
+        <h2 class="form-heading">Let's Talk</h2>
+        <form class="contact-form center" action="POST" data-netlify="true">
+          <input type="text" class="contact-form-input pointer-enter" placeholder="Name" id="name" autocomplete="off" name="name">
+          <p class="message"></p>
+          <input type="text" class="contact-form-input pointer-enter" placeholder="Email" id="email" autocomplete="off" name="email">
+          <p class="message"></p>
+          <input type="text" class="contact-form-input pointer-enter" placeholder="Subject" id="subject" autocomplete="off" name="subject">
+          <p class="message"></p>
+          <textarea class="contact-form-input contact-form-textarea pointer-enter" placeholder="Message" id="message" autocomplete="off" name="message"></textarea>
+          <p class="message"></p>
+          <input type="submit" class="form-submit-btn pointer-enter" value="Send Request">
+        </form>
+      </div>
+      <script src="Script.js"></script>
+</body>
+</html>
