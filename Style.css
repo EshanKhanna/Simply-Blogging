@@ -12,6 +12,7 @@
 }
 html{
     font-size: 95%;
+    
 }
 
 
@@ -56,13 +57,13 @@ html{
   }
   
   .form-submit-btn {
-    width: 11rem;
+    width: 13rem;
     height: 3rem;
-    background-color: #950202;
+    background-color: #f00000;
     border: none;
     align-self: center;
     font-size: 1.8rem;
-    color: rgb(0, 0, 0);
+    color: rgb(229, 223, 223);
     
   }
 
