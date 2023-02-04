@@ -1,1 +1,3 @@
-1st ProjectS
+As Per Project Requirements have created a Website containing Blogs for viewers to view.
+The Website also provides the chance for Bloggers to post.
+Have Created a Blog Submission Form along with a Contact Us form.
