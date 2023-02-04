@@ -19,3 +19,4 @@ formInputs.forEach((input) => {
     }, 300);
   });
 });
+
